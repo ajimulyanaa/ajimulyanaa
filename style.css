@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: aquamarine;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: 96EFFF;
+  align-items: center;
+  height: 10vh;
+}
+
+header h4 {
+  width: 30vw;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  width: 20vw;
+}
+
+main {
+  background-color: gray;
+  height: 85vh;
+  margin: 5px;
+  padding: 10px;
+}
+
+article {
+  height: 20vh;
+  margin-top: 5px;
+  background-color: azure;
+  margin: 10px;
+  padding: 10px;
+}
+
+section {
+  background-color: cadetblue;
+}
+
+footer {
+  background-color: 96EFFF;
+  text-align: center;
+  height: 5vh;
+}
